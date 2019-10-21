@@ -16,3 +16,12 @@ Ejemplo: labs de clase.
 
 ### Formato titulo PR
 [lab-XXXX] <Nombre Completo>
+
+## Crear una rama
+git checkout -b <nombre_nueva_rama>
+
+## Moverse a otra rama
+git checkout <nombre rama>
+
+## Comprobar en que rama estoy
+git status
