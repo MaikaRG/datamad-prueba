@@ -8,3 +8,11 @@ git status
 git push origin master
 ## Revisar que el repo local esta vinculado correctamente con github
 git remote -v
+
+## PR - Pull Request
+
+Cuando no puedas realizar un push porque no tienes permisos, haz una PR.
+Ejemplo: labs de clase.
+
+### Formato titulo PR
+[lab-XXXX] <Nombre Completo>
